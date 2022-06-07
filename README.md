@@ -6,4 +6,4 @@ Added hand interaction with Oculus Intreaction SDK.
 .
 Below is a video of my room and Game scene for comparison. 
 
-<iframe title="vimeo-player" src="https://player.vimeo.com/video/717974542?h=55a6f8a25d" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+https://player.vimeo.com/video/717974542?h=55a6f8a25d
